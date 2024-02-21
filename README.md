@@ -1,6 +1,6 @@
 - 👋 Hi, I’m moop
 - 👀 I’m interested in making some random repository.
-- 🌱 I’m currently learning coding cuz I like it.
+- 🌱 I’m currently learn coding cuz I like it.
 
 <!---
 moop100/moop100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
